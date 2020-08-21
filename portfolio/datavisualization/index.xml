@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Visualization on Arman</title>
+    <link>https://armannajari.github.io.git/portfolio/datavisualization/</link>
+    <description>Recent content in Data-Visualization on Arman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://armannajari.github.io.git/portfolio/datavisualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bosc Nocturn</title>
+      <link>https://armannajari.github.io.git/portfolio/bosc-nocturn/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannajari.github.io.git/portfolio/bosc-nocturn/</guid>
+      <description>Bosc Nocturn (en. Light Forrest) is an interactive installation, which invites people to enjoy the play of light. While combining both audition and vision, visitors can interact and change the light movement by their input through the microphones. Their voice will be reflected in the space with different filters.
+Advisor: Luis Fraguada, Cristian Rizzuti
+Team: Abhishek Ajit Soman, Akshay Kumar Gopinath, Daniil Koshelyuk, Elliott Sinclair Santos, François Nour, Gabriele Liuda Jureviciute, Hari Krishna Gundu, Johan Jasser Salas Castro, Kammil Steven Carranza Vivas, Kavya Jose, Lars Erik Elseth, Marc Bou Assaf, Nikol Kirova, Umit Ceren Bayazitoglu, Vinay Khare Wei-Hong Wang, Yasmina El Helou</description>
+    </item>
+    
+    <item>
+      <title>Tpoint</title>
+      <link>https://armannajari.github.io.git/portfolio/tpoint/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannajari.github.io.git/portfolio/tpoint/</guid>
+      <description>T-point is an experience on how robot arm can sense and interact with human. In the first phase the robot has to be aware of its position in the environment. The next challenge is to recognize the user in the environment. Later on user can have live interaction with robot. Moreover by taking the control of the robot you will be able to compose sounds and lights.
+Advisor: Kunaljit Singh Chadha</description>
+    </item>
+    
+  </channel>
+</rss>
