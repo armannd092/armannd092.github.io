@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devices on Arman</title>
-    <link>https://armannd092.github.io.git/portfolio/devices/</link>
+    <link>https://armannd092.github.io/portfolio/devices/</link>
     <description>Recent content in Devices on Arman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://armannd092.github.io.git/portfolio/devices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://armannd092.github.io/portfolio/devices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PlanGo</title>
-      <link>https://armannd092.github.io.git/portfolio/plango/</link>
+      <link>https://armannd092.github.io/portfolio/plango/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://armannd092.github.io.git/portfolio/plango/</guid>
+      <guid>https://armannd092.github.io/portfolio/plango/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spml5x</title>
-      <link>https://armannd092.github.io.git/portfolio/spml5x/</link>
+      <link>https://armannd092.github.io/portfolio/spml5x/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://armannd092.github.io.git/portfolio/spml5x/</guid>
+      <guid>https://armannd092.github.io/portfolio/spml5x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silencer</title>
-      <link>https://armannd092.github.io.git/portfolio/silencer/</link>
+      <link>https://armannd092.github.io/portfolio/silencer/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://armannd092.github.io.git/portfolio/silencer/</guid>
+      <guid>https://armannd092.github.io/portfolio/silencer/</guid>
       <description>This project aims to design and fabricate a 2*1.2 meter acoustic panel. For designing, an agent-based approach has been obtained to maximize the cavity in the solid material and trap the sound wave into itself. In the fabrication strategy, the double-side CNC milling approach with a 12mm flat bite has been applied
 Advisor: Alexandre Dubor, Raimund Krenmüller
 Team: Ardeshir Talaei, Tale Dotan, Andrea Sofia Champion
@@ -43,10 +43,10 @@ External link</description>
     
     <item>
       <title>GoDesign</title>
-      <link>https://armannd092.github.io.git/portfolio/godesign/</link>
+      <link>https://armannd092.github.io/portfolio/godesign/</link>
       <pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://armannd092.github.io.git/portfolio/godesign/</guid>
+      <guid>https://armannd092.github.io/portfolio/godesign/</guid>
       <description></description>
     </item>
     
