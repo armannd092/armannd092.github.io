@@ -6,7 +6,7 @@
     <description>Recent content in Urban on Arman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://armannd092.github.io/portfolio/urban/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>The Eye</title>
       <link>https://armannd092.github.io/portfolio/the-eye/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://armannd092.github.io/portfolio/the-eye/</guid>
       <description>The Eye is a single web platform which help the urban designer and decision maker to simulate and predict the impact of different urban planning scenarios. This platform uses real-time data through the computer algorithm and machine learning in order to transform the raw data to the knowledge about cities dynamic state. Furthermore, the project open up a new workflow for urban planning by providing a range of concussion that proposals will may cause.</description>

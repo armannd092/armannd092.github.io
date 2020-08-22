@@ -3,47 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://armannd092.github.io/portfolio/architecture/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://armannd092.github.io/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://armannd092.github.io/portfolio/bosc-nocturn/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/datavisualization/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/deltaz/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://armannd092.github.io/portfolio/devices/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/enclosing/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/goodwood/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/hyperloop/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,23 +23,8 @@
   </url>
   
   <url>
-    <loc>https://armannd092.github.io/portfolio/re-envisioning-candela/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://armannd092.github.io/portfolio/spml5x/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/tpoint/</loc>
-    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://armannd092.github.io/portfolio/hexwood/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,23 +33,68 @@
   </url>
   
   <url>
+    <loc>https://armannd092.github.io/portfolio/bosc-nocturn/</loc>
+    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/datavisualization/</loc>
+    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://armannd092.github.io/portfolio/the-eye/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://armannd092.github.io/portfolio/urban/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/tpoint/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/architecture/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/hexwood/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/goodwood/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/enclosing/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://armannd092.github.io/portfolio/silencer/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://armannd092.github.io/portfolio/godesign/</loc>
-    <lastmod>2016-08-17T00:00:00+00:00</lastmod>
+    <loc>https://armannd092.github.io/portfolio/deltaz/</loc>
+    <lastmod>2017-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/hyperloop/</loc>
+    <lastmod>2016-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armannd092.github.io/portfolio/re-envisioning-candela/</loc>
+    <lastmod>2016-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
