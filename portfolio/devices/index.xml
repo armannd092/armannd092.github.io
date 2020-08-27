@@ -17,7 +17,7 @@
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://armannd092.github.io/portfolio/plango/</guid>
-      <description></description>
+      <description>PlanGo is a new way to interface with schedule planning. For many years we tend to plan our upcoming daily life to optimize our time and resources. This device tends to find the middle ground between 100% digital planning platform and paper base planning. Each of these has its advantage and disadvantages. For instance, Digital calendars are the best in synchronizing your time with colleges and across different devices. However, they are often complicated to work with it.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://armannd092.github.io/portfolio/spml5x/</guid>
-      <description></description>
+      <description>SPML is a project started in the future learning unit of Fablab Barcelona. It tends to make the CNC machine accessible for students and let them understand the functionality of cartesian base machines. Furthermore, it can help the students to fabricate small mold and PCB at home. The current project is a child version of the main project, which tries to add two extra axes to the machine and make five axes machine.</description>
     </item>
     
     <item>
@@ -38,7 +38,17 @@
       <description>This project aims to design and fabricate a 2*1.2 meter acoustic panel. For designing, an agent-based approach has been obtained to maximize the cavity in the solid material and trap the sound wave into itself. In the fabrication strategy, the double-side CNC milling approach with a 12mm flat bite has been applied
 Advisor: Alexandre Dubor, Raimund Krenmüller
 Team: Ardeshir Talaei, Tale Dotan, Andrea Sofia Champion
-External link</description>
+External link
+Error: Under construction.</description>
+    </item>
+    
+    <item>
+      <title>GoDesign</title>
+      <link>https://armannd092.github.io/portfolio/godesign/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/godesign/</guid>
+      <description>Digital world and rise of modern computers have affected our life in various ways. Yet architecture is one of this fields that thrives on the digital phenomena to promote new perspectives in desing and fabrication through this age. However, current CAD tools and softwares are still far less than perfect in the way they interact with humans. Thus in a quest to develop more innate ways for human-computer interaction we came up with the idea of Glove Operation Design.</description>
     </item>
     
   </channel>

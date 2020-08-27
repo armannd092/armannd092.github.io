@@ -6,10 +6,19 @@
     <description>Recent content in Data-Visualization on Arman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://armannd092.github.io/portfolio/datavisualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CovidMap</title>
+      <link>https://armannd092.github.io/portfolio/covidmap/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/covidmap/</guid>
+      <description>COVID Map is Live map visualization which demonstrates peoples feeling about the coronavirus outbreak. It is watching public tweets and tries to understand if they are positive or negative. In this manner, it uses vectorizing each word base on its dictionary. One of my discoveries from this map is the countries that have access restrictions to this social media like China and Iran. Also, the limitation of this system is that it can just understand English.</description>
+    </item>
     
     <item>
       <title>Bosc Nocturn</title>
@@ -29,7 +38,7 @@ Team: Abhishek Ajit Soman, Akshay Kumar Gopinath, Daniil Koshelyuk, Elliott Sinc
       
       <guid>https://armannd092.github.io/portfolio/tpoint/</guid>
       <description>T-point is an experience on how robot arm can sense and interact with human. In the first phase the robot has to be aware of its position in the environment. The next challenge is to recognize the user in the environment. Later on user can have live interaction with robot. Moreover by taking the control of the robot you will be able to compose sounds and lights.
-Advisor: Kunaljit Singh Chadha</description>
+Advisor: Kunaljit Singh Chadha Special thanks to Ardeshir Talaei</description>
     </item>
     
   </channel>
