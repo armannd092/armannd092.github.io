@@ -6,10 +6,20 @@
     <description>Recent content on Arman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://armannd092.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intro</title>
+      <link>https://armannd092.github.io/portfolio/intro/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/intro/</guid>
+      <description>Portfolio  Here I am sharing my work samples. To make it more accessable I cluster them into following scopes. This does not mean that there is no connection between them. 
+ Urban Architecture Data visualization Devices Computational Design  </description>
+    </item>
     
     <item>
       <title>PlanGo</title>
@@ -27,16 +37,6 @@
       
       <guid>https://armannd092.github.io/portfolio/spml5x/</guid>
       <description>SPML is a project started in the future learning unit of Fablab Barcelona. It tends to make the CNC machine accessible for students and let them understand the functionality of cartesian base machines. Furthermore, it can help the students to fabricate small mold and PCB at home. The current project is a child version of the main project, which tries to add two extra axes to the machine and make five axes machine.</description>
-    </item>
-    
-    <item>
-      <title>Intro</title>
-      <link>https://armannd092.github.io/portfolio/intro/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://armannd092.github.io/portfolio/intro/</guid>
-      <description>Portfolio  Here I am sharing my work samples. To make it more accessable I cluster them into following scopes. This does not mean that there is no connection between them. 
- Urban Architecture Data visualization Devices Computational Design  </description>
     </item>
     
     <item>
