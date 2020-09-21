@@ -109,7 +109,7 @@ body {
 
 .author-profile {
   position: relative;
-  align-content: center;
+  align-content: left;
   text-align: center;
 }
 
@@ -118,10 +118,10 @@ body {
 }
 
 .author-profile img {
-  height: 120px;
-  width: 120px;
+  height: 40px;
+  width: 40px;
   background-color: #f9fafc;
-  padding: 5px;
+  padding: 3px;
 }
 .author-profile p {
   color: #8392a5;
