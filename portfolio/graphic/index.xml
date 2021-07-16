@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphic on Arman</title>
+    <link>https://armannd092.github.io/portfolio/graphic/</link>
+    <description>Recent content in Graphic on Arman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://armannd092.github.io/portfolio/graphic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Super Block sign</title>
+      <link>https://armannd092.github.io/portfolio/super-block-sign/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/super-block-sign/</guid>
+      <description>Super Block is an urban plan project to in Barcelona that tries to reduce the traffic in the city and increase the green area for more human centric environment. However this project is my contribution to a signage development by a graphist for a new Superblock emerging in Example neighborhood. The project was part of his bachelor thesis. I was consulting and assisting him from urban planner point of view to develop his project further.</description>
+    </item>
+    
+    <item>
+      <title>For Raam</title>
+      <link>https://armannd092.github.io/portfolio/for-raam/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/for-raam/</guid>
+      <description>This is an ongoing hobby inspired by an Artist named KingRaam. He started a podcast at the beginning of the pandemic and I create these graphics inspired by his stories and music. These works might end up on his merch that he started recently. Check his website if your interested.
+ Befarma!Chax Hamegi. Avalin joint...Jas o Raam...</description>
+    </item>
+    
+    <item>
+      <title>Kali Logo design</title>
+      <link>https://armannd092.github.io/portfolio/kali-logo-design/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/kali-logo-design/</guid>
+      <description>This project offered to me by a old friend who wanted to open a gift shop. Here you can see couple of my etudes for logo of his new brand.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

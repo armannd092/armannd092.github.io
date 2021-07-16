@@ -6,10 +6,30 @@
     <description>Recent content in Urban on Arman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://armannd092.github.io/portfolio/urban/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Q-City</title>
+      <link>https://armannd092.github.io/portfolio/q-city/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/q-city/</guid>
+      <description>Q-city is a new experience of park in a super-city. It is trying to reactivate park as a public space by adding layers of gamification to it. This physical game tied to a digital app, which provide citizens with extensive information about their activity. Moreover, it allow users to pair with each other for more public interaction inside this space. Along with this primary objective, the games designed to produce electricity as a byproduct as a source for the park.</description>
+    </item>
+    
+    <item>
+      <title>New York Bike sharing system</title>
+      <link>https://armannd092.github.io/portfolio/new-york-bike-sharing-system/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/new-york-bike-sharing-system/</guid>
+      <description>Advisor : Diego , Areti Markopoulou
+External link
+ Number of trips in days of month different season.Number of trips in hours of days in different season.</description>
+    </item>
     
     <item>
       <title>The Eye</title>

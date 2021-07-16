@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mix Reality on Arman</title>
+    <link>https://armannd092.github.io/portfolio/mr/</link>
+    <description>Recent content in Mix Reality on Arman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://armannd092.github.io/portfolio/mr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ViReInstrument</title>
+      <link>https://armannd092.github.io/portfolio/vireinstrument/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/vireinstrument/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pumped4Mutek</title>
+      <link>https://armannd092.github.io/portfolio/pumped4mutek/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/pumped4mutek/</guid>
+      <description>This project was the outcome of a workshop in IED Barcelona interaction course. In this workshop the tutor team help student to design and develop an augmented reality experience for the digital art festival, Mutek. This installation had a physical part at the SVD store where we design and install a vinyl for the window of the shop. On this design we embed a QR code that take the user to the digital experience.</description>
+    </item>
+    
+  </channel>
+</rss>

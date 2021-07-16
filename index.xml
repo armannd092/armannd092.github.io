@@ -6,10 +6,66 @@
     <description>Recent content on Arman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://armannd092.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ViReInstrument</title>
+      <link>https://armannd092.github.io/portfolio/vireinstrument/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/vireinstrument/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super Block sign</title>
+      <link>https://armannd092.github.io/portfolio/super-block-sign/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/super-block-sign/</guid>
+      <description>Super Block is an urban plan project to in Barcelona that tries to reduce the traffic in the city and increase the green area for more human centric environment. However this project is my contribution to a signage development by a graphist for a new Superblock emerging in Example neighborhood. The project was part of his bachelor thesis. I was consulting and assisting him from urban planner point of view to develop his project further.</description>
+    </item>
+    
+    <item>
+      <title>Pumped4Mutek</title>
+      <link>https://armannd092.github.io/portfolio/pumped4mutek/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/pumped4mutek/</guid>
+      <description>This project was the outcome of a workshop in IED Barcelona interaction course. In this workshop the tutor team help student to design and develop an augmented reality experience for the digital art festival, Mutek. This installation had a physical part at the SVD store where we design and install a vinyl for the window of the shop. On this design we embed a QR code that take the user to the digital experience.</description>
+    </item>
+    
+    <item>
+      <title>PreciousPlastic</title>
+      <link>https://armannd092.github.io/portfolio/preciousplastic/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/preciousplastic/</guid>
+      <description>There is no doubt that plastic pollution is one of our main issues to save the environment. It would be ignorant not to absorb the magnetite of this situation caused by plastic production and consumption. As a maker and designer, I feel responsible. This project is my approach to address this issue on a local scale. Through this document, I will go through my studies to understand the plastic recycling process and its history.</description>
+    </item>
+    
+    <item>
+      <title>For Raam</title>
+      <link>https://armannd092.github.io/portfolio/for-raam/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/for-raam/</guid>
+      <description>This is an ongoing hobby inspired by an Artist named KingRaam. He started a podcast at the beginning of the pandemic and I create these graphics inspired by his stories and music. These works might end up on his merch that he started recently. Check his website if your interested.
+ Befarma!Chax Hamegi. Avalin joint...Jas o Raam...</description>
+    </item>
+    
+    <item>
+      <title>Kali Logo design</title>
+      <link>https://armannd092.github.io/portfolio/kali-logo-design/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/kali-logo-design/</guid>
+      <description>This project offered to me by a old friend who wanted to open a gift shop. Here you can see couple of my etudes for logo of his new brand.
+  </description>
+    </item>
     
     <item>
       <title>Intro</title>
@@ -37,6 +93,26 @@
       
       <guid>https://armannd092.github.io/portfolio/spml5x/</guid>
       <description>SPML is a project started in the future learning unit of Fablab Barcelona. It tends to make the CNC machine accessible for students and let them understand the functionality of cartesian base machines. Furthermore, it can help the students to fabricate small mold and PCB at home. The current project is a child version of the main project, which tries to add two extra axes to the machine and make five axes machine.</description>
+    </item>
+    
+    <item>
+      <title>Q-City</title>
+      <link>https://armannd092.github.io/portfolio/q-city/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/q-city/</guid>
+      <description>Q-city is a new experience of park in a super-city. It is trying to reactivate park as a public space by adding layers of gamification to it. This physical game tied to a digital app, which provide citizens with extensive information about their activity. Moreover, it allow users to pair with each other for more public interaction inside this space. Along with this primary objective, the games designed to produce electricity as a byproduct as a source for the park.</description>
+    </item>
+    
+    <item>
+      <title>New York Bike sharing system</title>
+      <link>https://armannd092.github.io/portfolio/new-york-bike-sharing-system/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://armannd092.github.io/portfolio/new-york-bike-sharing-system/</guid>
+      <description>Advisor : Diego , Areti Markopoulou
+External link
+ Number of trips in days of month different season.Number of trips in hours of days in different season.</description>
     </item>
     
     <item>
@@ -118,7 +194,7 @@ Team:Alberto Emil Holguin Martinez, Ardeshir Talaei, Johan Jasser Salas Castro, 
 Advisor: Alexandre Dubor, Raimund Krenmüller
 Team: Ardeshir Talaei, Tale Dotan, Andrea Sofia Champion
 External link
-Error: Under construction.</description>
+</description>
     </item>
     
     <item>
